@@ -1,0 +1,9 @@
+# Пример использования
+repo = GitRepository()
+while True:
+    print("\nCommands:")
+    print("1. commit <message>")
+    print("2. branch <new_branch>")
+    print("3. checkout <branch>")
+    print("4. print")
+    print("5. exit")
